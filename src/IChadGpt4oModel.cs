@@ -1,5 +1,5 @@
 ﻿namespace Redplcs.ChadAI;
 
-public interface IChadGpt4oModel
+public interface IChadGpt4oModel : IChadModel
 {
 }
